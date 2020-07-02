@@ -1,0 +1,10 @@
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\obj\Debug\Picture Viewer.csprojAssemblyReference.cache
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\DELL PRECISION\source\repos\Picture Viewer\obj\Debug\Picture Viewer.pdb
